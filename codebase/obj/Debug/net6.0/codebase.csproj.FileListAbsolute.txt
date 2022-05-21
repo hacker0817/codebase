@@ -1,0 +1,12 @@
+E:\GitCode\codebase\codebase\bin\Debug\net6.0\codebase.deps.json
+E:\GitCode\codebase\codebase\bin\Debug\net6.0\codebase.dll
+E:\GitCode\codebase\codebase\bin\Debug\net6.0\codebase.pdb
+E:\GitCode\codebase\codebase\obj\Debug\net6.0\codebase.csproj.AssemblyReference.cache
+E:\GitCode\codebase\codebase\obj\Debug\net6.0\codebase.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitCode\codebase\codebase\obj\Debug\net6.0\codebase.AssemblyInfoInputs.cache
+E:\GitCode\codebase\codebase\obj\Debug\net6.0\codebase.AssemblyInfo.cs
+E:\GitCode\codebase\codebase\obj\Debug\net6.0\codebase.csproj.CoreCompileInputs.cache
+E:\GitCode\codebase\codebase\obj\Debug\net6.0\codebase.dll
+E:\GitCode\codebase\codebase\obj\Debug\net6.0\refint\codebase.dll
+E:\GitCode\codebase\codebase\obj\Debug\net6.0\codebase.pdb
+E:\GitCode\codebase\codebase\obj\Debug\net6.0\ref\codebase.dll
